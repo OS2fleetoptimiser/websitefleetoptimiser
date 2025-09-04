@@ -1,29 +1,23 @@
 # Site settings
-title: Editorial
+title: OS2FleetOptimiser
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+email: sofbu@aarhus.dk
+description: Den officielle hjemmeside for FleetOptimiser produktfællesskabet.
 baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
+street_address: Bautavej 6
+city: Aarhus V
 state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+zip_code: 8210
+country: Danmark
+phone: (45) 4031 6815
 
 # Social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+gitlab_url: https://github.com/OS2fleetoptimiser
 
 # Build settings
 markdown: kramdown

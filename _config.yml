@@ -3,8 +3,8 @@ title: OS2FleetOptimiser
 subtitle: Optimering og grøn omstilling af de offentlige køretøjsflåder
 email: sofbu@aarhus.dk
 description: Den officielle hjemmeside for FleetOptimiser produktfællesskabet.
-baseurl: "/lær mere om produktet og fællesskabet" # the subpath of your site, e.g. /blog
-url: "os2fleetoptimiser.github.io" # the base hostname & protocol for your site
+baseurl: "/websitefleetoptimiser" # the subpath of your site, e.g. /blog
+url: "https://os2fleetoptimiser.github.io" # the base hostname & protocol for your site
 author: Sofie Buhl
 street_address: Bautavej 6
 city: Aarhus V

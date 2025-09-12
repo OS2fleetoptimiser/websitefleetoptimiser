@@ -23,7 +23,7 @@ layout: default
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-group"></span>
+			<span class="icon fa-share-alt"></span>
 			<div class="content">
 				<h3>Vi har et stærkt netværk i FleetOptimiser?</h3>
 				<p>Grøn omstilling af køretøjsflåden er kompleks, og vi hjælper hinanden - bl.a. ved løbende temamøder, webinarer, samlinger og dialog på kryds og tværs?</p>
@@ -95,6 +95,7 @@ layout: default
 		</article>
 	</div>
 </section>
+
 
 
 

@@ -11,15 +11,15 @@ layout: default
 		<article>
 			<span class="icon fa-diamond"></span>
 			<div class="content">
-				<h3>15 organisationer</h3>
+				<h3>Vi lige pt. er 15 organisationer?</h3>
 				<p>14 kommuner og én region er med i FleetOptimiser produktfællesskabet, og flere på vej?</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Klima OG økonomi</h3>
-				<p>FleetOptimiser understøtter både co2-reduktioner og økonomiske besparelser?</p>
+				<h3>FleetOptimiser arbejder med flere bundlinjer?</h3>
+				<p>FleetOptimiser understøtter både co2-reduktioner og økonomiske besparelser? Ofte, men ikke altid, går de to ting hånd i hånd. Færre biler og flere cykler = redutkioner af både co2 og økonomi.</p>
 			</div>
 		</article>
 		<article>
@@ -95,4 +95,5 @@ layout: default
 		</article>
 	</div>
 </section>
+
 

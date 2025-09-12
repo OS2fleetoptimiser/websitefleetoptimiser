@@ -9,7 +9,7 @@ layout: default
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon fa-users-line"></span>
+			<span class="icon fa-solid fa-users-line"></span>
 			<div class="content">
 				<h3>Vi lige pt. er 15 organisationer?</h3>
 				<p>14 kommuner og én region er med i FleetOptimiser produktfællesskabet, og flere på vej?</p>
@@ -23,14 +23,14 @@ layout: default
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-hexagon-nodes"></span>
+			<span class="fa-solid fa-users-rays"></span>
 			<div class="content">
 				<h3>Vi har et stærkt netværk i FleetOptimiser?</h3>
 				<p>Grøn omstilling af køretøjsflåden er kompleks, og vi hjælper hinanden - bl.a. ved løbende temamøder, webinarer, samlinger og dialog på kryds og tværs?</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-piggy-bank"></span>
+			<span class="icon fa-solid fa-piggy-bank"></span>
 			<div class="content">
 				<h3>Din organisation lige nu kan spare onboarding-udgifterne?</h3>
 				<p>Vi har stadig fire onboarding-pakker på 50.000 kr. tilbage, som dækker tilslutnings- og onbardingudgifter? </p>
@@ -95,6 +95,7 @@ layout: default
 		</article>
 	</div>
 </section>
+
 
 
 

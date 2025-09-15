@@ -16,13 +16,14 @@ title: Tilslutning og økonomi
 	</div>
 
 <!-- Box -->
-		<h3>Der er flere fordele ved at tilslutte sig!</h3>
 		<div class="box">
-			<p>+ I bliver en del af et stærkt og kompetent fællesskab, som har stor erfaring med brug af FleetOptimiser, optimering og grøn omstilling af køretøjsflåder.
-   + I bliver modtaget af et mentorkorps, som er klar til at hjælpe jer i gang og dele erfaringer med optimering og omstilling med FleetOptimiser.
-   + Jo flere vi er, jo billigere bliver det for hele fællesskabet. Vi får nemlig rabat hos leverandøren af FleetOptimiser hvis vi bliver 15+ anvendere. Derudover bliver der flere midler, som kan bruges til videreudvikling af FleetOptimiser.
-   + De næste fire myndigheder der tilslutter sig, får betalt de tekniske onboarding-udgifter på 50.000 DKK. Dette er gældende i 2025 og 2026, herefter bortfalder muligheden. 
-   </p>
+  		<h3>Der er flere fordele ved at tilslutte sig!</h3>
+	<ul>
+ <li>I bliver en del af et stærkt og kompetent fællesskab, som har stor erfaring med brug af FleetOptimiser, optimering og grøn omstilling af køretøjsflåder.
+ <li>I bliver modtaget af et mentorkorps, som er klar til at hjælpe jer i gang og dele erfaringer med optimering og omstilling med FleetOptimiser.
+<li>Jo flere vi er, jo billigere bliver det for hele fællesskabet. Vi får nemlig rabat hos leverandøren af FleetOptimiser hvis vi bliver 15+ anvendere. Derudover bliver der flere midler, som kan bruges til videreudvikling af FleetOptimiser.
+<li>De næste fire myndigheder der tilslutter sig, får betalt de tekniske onboarding-udgifter på 50.000 DKK. Dette er gældende i 2025 og 2026, herefter bortfalder muligheden. 
+   </ul>
 		</div>
   
  Download takstblad og tilslutningsaftale her: 

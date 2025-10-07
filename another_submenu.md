@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Another Submenu
+title: Sådan kommer du i gang
 ---

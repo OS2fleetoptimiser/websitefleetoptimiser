@@ -14,7 +14,6 @@ title: Tilslutning og økonomi
 
 ![takstblad2026](/assets/images/takstblad2026.png)
 
-	  
 **Download takstblad og tilslutningsaftale her:** 
   </div>
 

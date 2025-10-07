@@ -12,8 +12,7 @@ title: Tilslutning og økonomi
     <p>Prisen for at blive en del af OS2FleetOptimiser-fællesskabet afhænger af antallet af køretøjer I ønsker at kunne simulere på. Det årlige vederlag dækker alt fra hosting, supportaftale, vedligehold og løbende compliance til udviklingsmidler, bidrag til drift af produktsekretariat og finansieringsbidrag til OS2's fælles sekretariat. Alle priser er opgivet pr. år ekskl. moms. Priserne justeres hvert år.</p>
     <p>I 2026 ser priserne således ud:</p>
 
-	 <span class="image object">
-      <img src="assets/images/takstblad.2026.png" alt="" />
+![takstblad2026](/assets/images/takstblad2026.png)
 
 	  
 **Download takstblad og tilslutningsaftale her:** 

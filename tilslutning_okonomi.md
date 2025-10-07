@@ -14,7 +14,8 @@ title: Tilslutning og økonomi
 
 ![takstblad2026](/assets/images/takstblad2026.png)
 
-**Download takstblad og tilslutningsaftale her:** 
+**Download takstblad og tilslutningsaftale her:**  
+
 [tilslutningsaftale](/assets/docs/TilslutningsaftaleOS2fleetoptimiser.pdf)  
 
 [takstblad 2026](/assets/docs/TakstbladOS2fleetoptimiser2026.pdf)

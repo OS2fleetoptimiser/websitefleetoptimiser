@@ -19,7 +19,7 @@ title: Tilslutning og økonomi
 
 [tilslutningsaftale]({{ '/assets/docs/TilslutningsaftaleOS2fleetoptimiser.pdf' | relative_url }})
 
-  [takstblad 2026]({{ '/assets/docs/TakstbladOS2fleetoptimiser2026.pdf' | relative_url }}
+  [takstblad 2026]({{ '/assets/docs/TakstbladOS2fleetoptimiser2026.pdf' | relative_url }})
 
   </div>
 

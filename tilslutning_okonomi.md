@@ -13,7 +13,6 @@ title: Tilslutning og økonomi
     <p>I 2026 ser priserne således ud:</p>
 
    <img src="assets/images/Takstblad2026.png" alt="Takstblad 2026">
-  </div>
 
 **Download takstblad og tilslutningsaftale her:**  
 
@@ -23,7 +22,7 @@ title: Tilslutning og økonomi
 
     </div>
    
-
+   </div>
 
 <!-- Højre kolonne -->
 <div class="6u$ 12u$(small)">

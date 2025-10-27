@@ -4,8 +4,6 @@ title: Organisering
 permalink: /komigang/organisering/
 ---
 
-# Organisering
-
 <img width="955" height="955" alt="image" src="https://github.com/user-attachments/assets/558056d9-f850-4e3d-b147-1c03316ecfd4" />
 
 

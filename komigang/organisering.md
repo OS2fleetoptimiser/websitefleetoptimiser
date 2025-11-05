@@ -4,7 +4,7 @@ title: Organisering
 permalink: /komigang/organisering/
 ---
 
-<img width="955" height="955" alt="image" src="https://github.com/user-attachments/assets/558056d9-f850-4e3d-b147-1c03316ecfd4" />
+<img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/558056d9-f850-4e3d-b147-1c03316ecfd4" />
 
 
  ---
@@ -39,6 +39,6 @@ Det er svært at komme udenom at en god forankring hos den nærmeste ledelse er 
 Har I brug for også at få FleetOptimiser forankret i organisationens strategiske ledelse, kan det være en god idé først at gå "bottom up" og etablere en stærk forankring i blandt medarbejdere og ledere tæt på driften. Erfaringerne fra flere af projektmyndighederne er, at den gode forankring, tæt på organisationens kerneopgaver, er et rigtig godt fundament for også at få den strategiske ledelses opbakning til at tage de næste skridt.
 FleetOptimiser kan heldigvis kobles til flere (strategiske) dagsordener, som kan være et godt udgangspunkt for en god forankring hos ledelsen. Vi udfolder eksempler på de forskellige dagsordener lidt længere nede.
  
-<img width="486" height="500" alt="image" src="https://github.com/user-attachments/assets/d5bf0d1b-3fee-45f2-959d-09a2ecfe6a07" />
+<img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/d5bf0d1b-3fee-45f2-959d-09a2ecfe6a07" />
 
 

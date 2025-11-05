@@ -6,7 +6,7 @@ permalink: /komigang/overblik/
 
 Her finder du et overblik over "to do"-listen til den tekniske implementering og anbefalingerne til organiseringen samt til økonomi og beslutning.   
 
-<img width="687" height="689" alt="image" src="https://github.com/user-attachments/assets/fcaea761-c799-4cff-8128-0d83827bc3d7" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fcaea761-c799-4cff-8128-0d83827bc3d7" />
 
 
 Forberedelse til teknisk implementering

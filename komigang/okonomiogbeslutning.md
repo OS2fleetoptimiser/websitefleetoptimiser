@@ -4,13 +4,13 @@ title: Økonomi og beslutning
 permalink: /komigang/okonomiogbeslutning/
 ---
 
-<img width="659" height="659" alt="image" src="https://github.com/user-attachments/assets/4a9153da-46b0-4da2-a707-a9cac237e411" />
+<img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/4a9153da-46b0-4da2-a707-a9cac237e411" />
 
 
 Hvordan ser økonomien ud? Det spørgsmål har vi selv fået mange gange, og I vil formentlig også blive spurgt om det undervejs i forberedelserne. Generelt er det sådan, at jo flere køretøjer, jo billigere bliver det pr. køretøj. For de penge kan I lave alle de simuleringer I vil hver eneste dag, og hele tiden have adgang til den nyeste version af værktøjet.
 Nedenfor har vi samlet et par tips til hvordan I kan fremstille økonomien samt et par råd til hvordan I kan sagsfremstille implementeringen af FleetOptimiser, baseret på hvad projektets 14 myndigheder har gjort.
 
-<img width="844" height="348" alt="image" src="https://github.com/user-attachments/assets/f60f3b13-f31e-4acd-8efa-23e544c06ec4" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/f60f3b13-f31e-4acd-8efa-23e544c06ec4" />
 
 
 Anbefaling 1: Lav en business case med egne tal

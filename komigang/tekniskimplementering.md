@@ -4,7 +4,7 @@ title: Forberedelse til teknisk implementering
 permalink: /komigang/tekniskimplementering/
 ---
 
-                   <img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/f5317e82-75f1-47b0-afdf-ebbcab280601" />
+<img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/f5317e82-75f1-47b0-afdf-ebbcab280601" />
 
 Der er et par ting, som I allerede nu kan sætte gang i, som bringer jer tættere på at kunne implementere FleetOptimiser. Blandt andet har FleetOptimiser brug for data fra det system, som indsamler GPS-data fra jeres køretøjer, f.eks. jeres flådestyringssystem. Derfor skal der laves en integration via flådestyringssytemets API, hvorfra data kan trækkes ud.
 Nedenfor finder I en oversigt over de ting der er brug for, og som I kan sætte i gang nu, for at blive klar til den tekniske implementering.

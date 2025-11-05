@@ -20,7 +20,7 @@ Vi har lavet en simpel skabelon til en business case, som I kan bruge i jeres vi
 
 Find skabelonen på FleetOptimiser.aarhus.dk
 
-<img width="474" height="663" alt="image" src="https://github.com/user-attachments/assets/2d8af4cc-c7d9-43d4-b18e-5202f26c9a42" />
+<img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/2d8af4cc-c7d9-43d4-b18e-5202f26c9a42" />
 
 Anbefaling 2: Når I skal i gang med sagsfremstilling og kommunikation om projektet
 ---

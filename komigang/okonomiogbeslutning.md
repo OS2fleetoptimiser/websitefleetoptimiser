@@ -4,13 +4,13 @@ title: Økonomi og beslutning
 permalink: /komigang/okonomiogbeslutning/
 ---
 
-                        <img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/4a9153da-46b0-4da2-a707-a9cac237e411" />
+<img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/4a9153da-46b0-4da2-a707-a9cac237e411" />
 
 
 Hvordan ser økonomien ud? Det spørgsmål har vi selv fået mange gange, og I vil formentlig også blive spurgt om det undervejs i forberedelserne. Generelt er det sådan, at jo flere køretøjer, jo billigere bliver det pr. køretøj. For de penge kan I lave alle de simuleringer I vil hver eneste dag, og hele tiden have adgang til den nyeste version af værktøjet.
 Nedenfor har vi samlet et par tips til hvordan I kan fremstille økonomien samt et par råd til hvordan I kan sagsfremstille implementeringen af FleetOptimiser, baseret på hvad projektets 14 myndigheder har gjort.
 
-                        <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/f60f3b13-f31e-4acd-8efa-23e544c06ec4" />
+<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/f60f3b13-f31e-4acd-8efa-23e544c06ec4" />
 
 
 Anbefaling 1: Lav en business case med egne tal
@@ -20,7 +20,7 @@ Vi har lavet en simpel skabelon til en business case, som I kan bruge i jeres vi
 
 Find skabelonen på FleetOptimiser.aarhus.dk
 
-                        <img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/2d8af4cc-c7d9-43d4-b18e-5202f26c9a42" />
+  <img width="410" height="460" alt="image" src="https://github.com/user-attachments/assets/2d8af4cc-c7d9-43d4-b18e-5202f26c9a42" />
 
 Anbefaling 2: Når I skal i gang med sagsfremstilling og kommunikation om projektet
 ---

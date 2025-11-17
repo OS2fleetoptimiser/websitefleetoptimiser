@@ -17,6 +17,6 @@ Overblikket er opdelt i tre hovedtemaer og en opsummering i form af en oversigt:
 <ul class="actions">
   <li><a class="button big" href="{{ '/komigang/tekniskimplementering/' | relative_url }}">Teknisk implementering</a></li>
   <li><a class="button big" href="{{ '/komigang/organisering/' | relative_url }}">Organisering</a></li>
-  <li><a class="button big" href="{{ '/komigang/okonomiogbeslutning/' | relative_url }}">Organisering</a></li>
+  <li><a class="button big" href="{{ '/komigang/okonomiogbeslutning/' | relative_url }}">Økonomi og beslutning</a></li>
   <li><a class="button big" href="{{ '/komigang/oversigt' | relative_url }}">Oversigt</a></li>
 </ul>
